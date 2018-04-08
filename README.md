@@ -3,8 +3,8 @@ This is a simple one page, about me website. If you are, like me, new to web dev
 
 ### I used
 * Simple HTML structure: main | aside | sections | list 
-* very basic CSS
-* one short JavaScript script
+* very basic CSS: floats | media querries | ems
+* one short JavaScript script: user prompt | alert message
 
 #### inspiration:
 Ikea color palette and Lighthouse Labs HTML500 event
